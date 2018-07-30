@@ -1,0 +1,10 @@
+c:\users\nihit\documents\visual studio 2013\Projects\Banking System\Banking System\bin\Debug\Banking System.exe.config
+c:\users\nihit\documents\visual studio 2013\Projects\Banking System\Banking System\bin\Debug\Banking System.exe
+c:\users\nihit\documents\visual studio 2013\Projects\Banking System\Banking System\bin\Debug\Banking System.pdb
+c:\users\nihit\documents\visual studio 2013\Projects\Banking System\Banking System\obj\Debug\Banking System.csprojResolveAssemblyReference.cache
+c:\users\nihit\documents\visual studio 2013\Projects\Banking System\Banking System\obj\Debug\Banking System.exe
+c:\users\nihit\documents\visual studio 2013\Projects\Banking System\Banking System\obj\Debug\Banking System.pdb
+C:\Users\NIHIT\Documents\Visual Studio 2013\Projects\Banking System\Banking System\bin\Debug\EntityFramework.dll
+C:\Users\NIHIT\Documents\Visual Studio 2013\Projects\Banking System\Banking System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NIHIT\Documents\Visual Studio 2013\Projects\Banking System\Banking System\bin\Debug\EntityFramework.xml
+C:\Users\NIHIT\Documents\Visual Studio 2013\Projects\Banking System\Banking System\bin\Debug\EntityFramework.SqlServer.xml
